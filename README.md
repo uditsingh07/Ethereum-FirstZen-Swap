@@ -9,6 +9,6 @@
 
 Click on Quickstart go to Contracts and Link on "Link Truffle Project" and add truffle-config.js file from the cloned folder and click on save and restart.
 Once Ganache is restarted, go to terminal and run command -
-  - **truffle migrate
-and once this command is complete the smart contracts will be deployed to Ganache, now run -
- - **npm start
+  - truffle migrate
+and once this command is complete the smart contracts will be deployed to Ganache, now run 
+ - npm start
